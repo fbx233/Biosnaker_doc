@@ -1,6 +1,6 @@
 # 2.操作方法
 
-XYPatHulab基于Snakemake进行分析，具有自动化分析，断点重连，可扩展性高等优点。
+Biosnaker基于Snakemake进行分析，具有自动化分析，断点重连，可扩展性高等优点。
 
 ## 工具结构
 

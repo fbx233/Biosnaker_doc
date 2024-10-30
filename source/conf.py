@@ -6,9 +6,9 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'XYPatHulab'
-copyright = '2024, THU HU LAB'
-author = 'THU HU LAB'
+project = 'Biosnaker'
+copyright = '2024, FBX'
+author = 'FBX'
 release = '0.1.0'
 
 # -- General configuration ---------------------------------------------------
