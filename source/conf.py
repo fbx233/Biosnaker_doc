@@ -7,8 +7,8 @@
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
 project = 'Biosnaker'
-copyright = '2024, THU'
-author = 'THU'
+copyright = '2024, FBX'
+author = 'FBX'
 release = '0.1.0'
 
 # -- General configuration ---------------------------------------------------
