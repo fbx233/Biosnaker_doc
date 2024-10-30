@@ -6,7 +6,7 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'Biosnaker'
+project = 'XYPatHulab'
 copyright = '2024, THU'
 author = 'THU'
 release = '0.1.0'
